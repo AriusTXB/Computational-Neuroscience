@@ -48,6 +48,8 @@ neural_network_assignment/
 ├── main.py                  # Entry point to run all simulations
 ├── requirements.txt         # Python dependencies
 └── report.pdf               # Full LaTeX Report
+```
+---
 
 ## 🚀 Installation & Usage
 1. Clone the Repository
@@ -66,13 +68,19 @@ code
 Bash
 python main.py
 
+---
+
 ## 🎓 Academic Info
+```Bullet
 Course: AIT3012 - Computational Neuroscience and Applications
 Institution: Vietnam National University, Hanoi - University of Engineering and Technology (UET)
 Student: Tran Xuan Bao
 Student ID: 23020332
 Supervisor: Prof. Nguyen Linh Trung & Prof. Guy Nagels
-### 📖 References
+```
+---
+
+## 📖 References
 Trappenberg, T. P. (2023). Fundamentals of computational neuroscience. Oxford University Press.
 Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience. MIT Press.
 Lukoševičius, M., & Jaeger, H. (2009). Reservoir computing approaches to recurrent neural network training. Computer Science Review.

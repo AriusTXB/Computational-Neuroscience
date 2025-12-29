@@ -84,5 +84,7 @@ Supervisor: Prof. Nguyen Linh Trung & Prof. Guy Nagels
 ```Bullet
 Trappenberg, T. P. (2023). Fundamentals of computational neuroscience. Oxford University Press.
 Dayan, P., & Abbott, L. F. (2001). Theoretical neuroscience. MIT Press.
+Tavanaei, A., Ghodrati, M., Kheradpisheh, S. R., Masquelier, T., & Maida, A. S. (2019). Deep
+learning in spiking neural networks. Neural Networks
 Lukoševičius, M., & Jaeger, H. (2009). Reservoir computing approaches to recurrent neural network training. Computer Science Review.
 ```

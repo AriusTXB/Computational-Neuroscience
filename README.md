@@ -53,21 +53,26 @@ neural_network_assignment/
 
 ## 🚀 Installation & Usage
 1. Clone the Repository
+```Bullet
 code
 Bash
 git clone https://github.com/AriusTXB/Computational-Neuroscience.git
 cd neuron-models-simulation
+```
 2. Install Dependencies
 Ensure you have Python installed, then run:
+```Bullet
 code
 Bash
 pip install -r requirements.txt
+```
 3. Run Simulations
 Execute the main script to generate all simulations and save plots to the output/ directory:
+```Bullet
 code
 Bash
 python main.py
-
+```
 ---
 
 ## 🎓 Academic Info
